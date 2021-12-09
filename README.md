@@ -16,7 +16,7 @@ Features -
 ~Wikipedia and Google
 ~Weather
 ~Camera
-~Screenshop
+~Screenshot
 ~Web API call
 ~Map
 ~Playing song & movies
